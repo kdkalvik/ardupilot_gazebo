@@ -28,8 +28,6 @@ For Gazebo 8
 sudo apt-get install libgazebo8-dev
 ````
 ````
-git clone https://github.com/khancyr/ardupilot_gazebo
-cd ardupilot_gazebo
 mkdir build
 cd build
 cmake ..
